@@ -1,0 +1,36 @@
+form {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    padding: 10px 30px;
+    font-size: 16px;
+    background: #3605d5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.BackButton{
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 16px;
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    
+}
